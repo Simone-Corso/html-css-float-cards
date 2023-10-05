@@ -21,17 +21,23 @@ body{
 }
 img{
     width: 20%;
+    float: left;
+    
+    
+    
 
 }
 .column-six{
     float: left;
     width: 33%;
     /*border: #e43979 solid 1px; */
-    text-align: center;
-    padding: 3rem;
-}    
-p{
+   vertical-align: 
     padding: 1rem;
+    background-color: #e43979;
+}    
+span{
+    padding: 5rem;
+    text-align: center;
 }
 main{
     padding: 2rem 0;
