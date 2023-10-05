@@ -26,16 +26,3 @@ p{
 main{
     padding: 2rem 0;
 }
-section#cards{
-    background-color: white;
-
-}
-
-section#cards .columns .column-six{
-    float: left;
-    margin: 1rem 1%;
-    width: 23%;
-    height: 400px;
-    border: 3px magenta;
-    padding: 1.5rem;
-}
