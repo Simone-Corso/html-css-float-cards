@@ -4,6 +4,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
 
 body{
     color: black;
@@ -31,6 +36,6 @@ section#cards .columns .column-six{
     margin: 1rem 1%;
     width: 23%;
     height: 400px;
-    border: 3px solid magenta;
+    border: 3px magenta;
     padding: 1.5rem;
 }
