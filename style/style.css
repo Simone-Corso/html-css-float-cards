@@ -10,5 +10,8 @@ body{
     font-family: 'Fredoka', sans-serif;
 }
 h1{
-    color: #e43979
+    color: #e43979;
+    text-align: center;
+    padding: 2rem;
+    
 }
