@@ -19,6 +19,10 @@ body{
     text-align: center;
     padding: 2rem;
 }
+img{
+    width: 20%;
+
+}
 .column-six{
     float: left;
     width: 33%;
