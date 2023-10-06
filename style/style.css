@@ -20,15 +20,16 @@ body{
     padding: 2rem;
 }
 img{
-    width: 19.5%;
+    width: 25%;
     float: left;
 }
 h2,p{
     color: white;
+    vertical-align: middle;
 }
 div.background{
     background-color: #0f0e17;
-    padding: 0.1rem;
+    padding: 1.4rem;
     margin: 0;
     
 }
