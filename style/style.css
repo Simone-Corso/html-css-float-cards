@@ -23,8 +23,11 @@ img{
     width: 19.5%;
     float: left;
 }
+h2,p{
+    color: white;
+}
 div.background{
-    background-color: red;
+    background-color: #0f0e17;
     padding: 0.1rem;
     margin: 0;
     
