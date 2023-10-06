@@ -20,19 +20,26 @@ body{
     padding: 2rem;
 }
 img{
-    width: 20%;
+    width: 19.5%;
     float: left;
-    
-    
-    
-
 }
+div.background{
+    background-color: red;
+    padding: 0.1rem;
+    margin: 0;
+    
+}
+    
+   
+    
 .column-six{
     float: left;
-    width: 33%;
+    width: 30%;
     /*border: #e43979 solid 1px; */
-    padding: 2.4rem;
-    background-color: #e43979;
+    padding: 2rem;
+    margin: 0em;
+    text-align: initial;
+    
 }    
 span{
     padding: 5rem;
